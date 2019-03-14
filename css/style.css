@@ -1,0 +1,7 @@
+main {
+    min-height: calc(100vh - 160px);
+}
+.list-group {
+    max-height: 350px;
+    overflow-y: auto;
+}

@@ -1,0 +1,96 @@
+{
+    "search_results":[
+       {
+          "company_ids":[
+             "1021750"
+          ],
+          "company_name":"ABC Bus, Inc"
+       },
+       {
+          "company_ids":[
+             "1632169"
+          ],
+          "company_name":"ABC Imaging Of Washington, Inc"
+       },
+       {
+          "company_ids":[
+             "1021880"
+          ],
+          "company_name":"ABC Laboratories"
+       },
+       {
+          "company_ids":[
+             "1021853"
+          ],
+          "company_name":"ABC Liquors, Inc"
+       },
+       {
+          "company_ids":[
+             "1632235"
+          ],
+          "company_name":"ABC Warehouse"
+       },
+       {
+          "company_ids":[
+             "1000006",
+             "1021984"
+          ],
+          "company_name":"Abc, Inc"
+       },
+       {
+          "company_ids":[
+             "1976019"
+          ],
+          "company_name":"Abcam, PLC"
+       },
+       {
+          "company_ids":[
+             "1632194"
+          ],
+          "company_name":"Abco Fire, LLC"
+       },
+       {
+          "company_ids":[
+             "1071574"
+          ],
+          "company_name":"Babcock & Wilcox Enterprises, Inc"
+       },
+       {
+          "company_ids":[
+             "6759962"
+          ],
+          "company_name":"Babcock & Wilcox Megtec, LLC"
+       },
+       {
+          "company_ids":[
+             "1071581",
+             "10475353"
+          ],
+          "company_name":"Babcock Power, Inc"
+       },
+       {
+          "company_ids":[
+             "1211780"
+          ],
+          "company_name":"Fabcon Precast"
+       },
+       {
+          "company_ids":[
+             "1326651"
+          ],
+          "company_name":"Labcyte, Inc"
+       },
+       {
+          "company_ids":[
+             "1468982"
+          ],
+          "company_name":"RehabCare Group, Inc"
+       },
+       {
+          "company_ids":[
+             "10069774"
+          ],
+          "company_name":"WABCO Holdings, Inc"
+       }
+    ]
+}
